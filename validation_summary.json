@@ -1,0 +1,106 @@
+{
+  "revision": "0.4",
+  "date": "2026-09-07",
+  "build_source_sha256": "26d72b9b4844c05df17d25f60573c9a5492feecdc8bc22707c4acc2543f78c99",
+  "default": {
+    "unique_parts": 16,
+    "physical_prints_including_coupons": 17,
+    "full_top_keepout_clear": true,
+    "no_default_assembly_intersections": true,
+    "valid_single_solids_and_watertight_meshes": true
+  },
+  "sampled_adjustment_poses": 37,
+  "sampled_adjustments_passed": true,
+  "continuous_sweep_proven": false,
+  "dimension_examples": [
+    {
+      "example": "minimum",
+      "parameters": {
+        "width": 22.0,
+        "thickness": 4.0,
+        "length": 700.0,
+        "vial_length": 20.0,
+        "vial_diameter": 6.0,
+        "pitch_angle": 0.0,
+        "bank_angle": -30.0,
+        "sight_height": 20.0,
+        "skip_export": true,
+        "pitch_trim": 8.0,
+        "roll_trim": -8.0,
+        "out": "validation/minimum"
+      },
+      "valid_single_solids_and_watertight_meshes": true,
+      "intersections_mm3": [],
+      "top_obstructions": []
+    },
+    {
+      "example": "maximum",
+      "parameters": {
+        "width": 40.0,
+        "thickness": 10.0,
+        "length": 950.0,
+        "vial_length": 26.0,
+        "vial_diameter": 8.0,
+        "pitch_angle": 90.0,
+        "bank_angle": 30.0,
+        "sight_height": 20.0,
+        "skip_export": true,
+        "pitch_trim": -8.0,
+        "roll_trim": 8.0,
+        "out": "validation/maximum"
+      },
+      "valid_single_solids_and_watertight_meshes": true,
+      "intersections_mm3": [],
+      "top_obstructions": []
+    }
+  ],
+  "reuse_from_v03": {
+    "01_grip_fixed_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "02_grip_moving_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "03_grip_handle.stl": {
+      "byte_identical_to_v03": true
+    },
+    "04_anchor_fixed_jaw_and_nose.stl": {
+      "byte_identical_to_v03": true
+    },
+    "05_anchor_moving_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "06_marker_fixed_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "08_gauge_fixed_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "11_pitch_rotor_calibration_base.stl": {
+      "byte_identical_to_v03": true
+    },
+    "12_fit_coupon_fixed_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "13_fit_coupon_moving_jaw.stl": {
+      "byte_identical_to_v03": true
+    },
+    "14_calibration_vial_carrier_PRINT_2.stl": {
+      "byte_identical_to_v03": true
+    }
+  },
+  "part15_identical_to_part11": true,
+  "forward_vector_angle_checks": 40,
+  "document_checks": {
+    "guide_pages": 7,
+    "guide_and_scale_visually_reviewed": true,
+    "scale_pdf_vector_reference_bar_mm": 100
+  },
+  "limits": [
+    "No physical fit, grip, locking repeatability, load capacity, fatigue or measurement-accuracy validation.",
+    "No actual glider or elastic path modeled. Alignment sight must be removed before tension.",
+    "Final 2027 Division B event-rule compliance remains unverified.",
+    "Pose sampling uses default dimensions; dimension examples check one pose each.",
+    "Simplified threads, washers, vials and shaft collars. Cable ties and collar set screws omitted."
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "version": "0.4",
+  "parameters": {
+    "width": 30,
+    "thickness": 6,
+    "length": 914.4,
+    "vial_length": 25,
+    "vial_diameter": 8,
+    "pitch_angle": 60,
+    "bank_angle": 0,
+    "sight_height": 0,
+    "skip_export": false,
+    "pitch_trim": 0,
+    "roll_trim": 0,
+    "out": "/workspace/scratch/77a4dcfa98ad/ELG_Launcher_v04"
+  },
+  "parts": [
+    {
+      "part": "01_grip_fixed_jaw",
+      "stl_mm": [
+        72.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 19.988,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "02_grip_moving_jaw",
+      "stl_mm": [
+        72.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 20.674,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#d7a442"
+    },
+    {
+      "part": "03_grip_handle",
+      "stl_mm": [
+        56.0,
+        96.0,
+        20.0
+      ],
+      "volume_cm3": 59.796,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "04_anchor_fixed_jaw_and_nose",
+      "stl_mm": [
+        74.0,
+        44.6,
+        29.0
+      ],
+      "volume_cm3": 35.832,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "05_anchor_moving_jaw",
+      "stl_mm": [
+        48.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 13.551,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#d7a442"
+    },
+    {
+      "part": "06_marker_fixed_jaw",
+      "stl_mm": [
+        16.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 4.399,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "07_marker_moving_jaw",
+      "stl_mm": [
+        80.0,
+        39.2,
+        21.2
+      ],
+      "volume_cm3": 8.087,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#e4874c"
+    },
+    {
+      "part": "08_gauge_fixed_jaw",
+      "stl_mm": [
+        44.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 11.677,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "09_gauge_moving_jaw_roll_bracket",
+      "stl_mm": [
+        44.0,
+        124.7,
+        97.2
+      ],
+      "volume_cm3": 57.668,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "10_pitch_bracket",
+      "stl_mm": [
+        87.99,
+        81.0,
+        48.1
+      ],
+      "volume_cm3": 44.217,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#274956"
+    },
+    {
+      "part": "11_pitch_rotor_calibration_base",
+      "stl_mm": [
+        52.99,
+        45.99,
+        4.0
+      ],
+      "volume_cm3": 6.446,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#d7a442"
+    },
+    {
+      "part": "12_fit_coupon_fixed_jaw",
+      "stl_mm": [
+        16.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 4.399,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#aaaaaa"
+    },
+    {
+      "part": "13_fit_coupon_moving_jaw",
+      "stl_mm": [
+        16.0,
+        21.7,
+        17.2
+      ],
+      "volume_cm3": 4.399,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#aaaaaa"
+    },
+    {
+      "part": "14_calibration_vial_carrier_PRINT_2",
+      "stl_mm": [
+        44.0,
+        34.0,
+        10.0
+      ],
+      "volume_cm3": 6.035,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#d7a442"
+    },
+    {
+      "part": "15_bank_rotor_calibration_base",
+      "stl_mm": [
+        52.99,
+        45.99,
+        4.0
+      ],
+      "volume_cm3": 6.446,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#d7a442"
+    },
+    {
+      "part": "16_removable_alignment_sight",
+      "stl_mm": [
+        80.0,
+        63.0,
+        3.0
+      ],
+      "volume_cm3": 3.365,
+      "watertight": true,
+      "connected_solids": 1,
+      "color": "#e4874c"
+    }
+  ],
+  "assembly_intersections_mm3": [],
+  "ruler_top_keepout_obstructions": [],
+  "keepout_mm": {
+    "x": [
+      0,
+      914.4
+    ],
+    "y": [
+      -15.0,
+      15.0
+    ],
+    "z": [
+      6,
+      256
+    ]
+  },
+  "jaw_top_below_ruler_mm": 0.8,
+  "nominal_closed_base_gap_mm": 0.6,
+  "clamp_bolt_length_mm": 55,
+  "bank_range_deg": [
+    -30,
+    30
+  ],
+  "pitch_range_deg": [
+    0,
+    90
+  ],
+  "sight_height_range_mm": [
+    0,
+    20
+  ],
+  "calibration_range_deg": [
+    -8,
+    8
+  ],
+  "trim_pivot_spacing_mm": 32,
+  "print_quantities": {
+    "14_calibration_vial_carrier_PRINT_2": 2
+  },
+  "checked": "Valid CAD, one solid per print, watertight positive-volume meshes, assembled collisions including vials, trim/pivot/clamp/mount hardware, full ruler top keepout at the specified angles.",
+  "not_checked": "Physical fit, strength, clamp friction, fatigue, calibration accuracy, glider clearance, elastic retention or rules compliance. Cable ties and retaining-collar set screws are not modeled. Nut/bolt threads and washer compression are simplified."
+}

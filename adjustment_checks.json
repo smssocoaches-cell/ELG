@@ -1,0 +1,346 @@
+{
+  "parameters": {
+    "width": 30,
+    "thickness": 6,
+    "length": 914.4,
+    "vial_length": 25,
+    "vial_diameter": 8
+  },
+  "sampled_poses": [
+    {
+      "pitch_deg": 0,
+      "bank_deg": -30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": -30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": -30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": -30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": -30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": -15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 0,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 0,
+      "bank_deg": 30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 30,
+      "bank_deg": -30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 30,
+      "bank_deg": -15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 30,
+      "bank_deg": 0,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 30,
+      "bank_deg": 15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 30,
+      "bank_deg": 30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 60,
+      "bank_deg": -30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 60,
+      "bank_deg": -15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 60,
+      "bank_deg": 0,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 60,
+      "bank_deg": 0,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 20,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 60,
+      "bank_deg": 15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 60,
+      "bank_deg": 30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": -30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": -30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": -30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": -30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": -30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": -15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 0,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 15,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 30,
+      "pitch_trim_deg": -8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 30,
+      "pitch_trim_deg": 0,
+      "roll_trim_deg": 0,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": -8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    },
+    {
+      "pitch_deg": 90,
+      "bank_deg": 30,
+      "pitch_trim_deg": 8,
+      "roll_trim_deg": 8,
+      "sight_height_mm": 0,
+      "collisions": [],
+      "top_obstructions": []
+    }
+  ],
+  "passed": true,
+  "continuous_sweep": false
+}

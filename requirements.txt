@@ -1,0 +1,5 @@
+cadquery==2.8.0
+trimesh==5.1.0
+numpy==2.3.5
+matplotlib==3.10.8
+reportlab==4.4.9
